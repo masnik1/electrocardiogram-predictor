@@ -1,0 +1,4 @@
+TEST_FOLD = 3
+TRAIN_SC = 'roc_auc_ovr'
+POSITIVE_RATE = .9
+NEGATIVE_RATE = .9
